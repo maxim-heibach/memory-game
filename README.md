@@ -6,7 +6,7 @@ Matrikelnummer: 909442
 ## Aufgabe
 In dieser Aufgabe sollen Sie einen einfachen Prototyp des Spiels „Memory“ mit Vue implementieren:
 
-![Aufgabe 4](task4.png)
+![Aufgabe 4](pictures/task4.png)
 
 Ein Rahmenprogramm ist Ihnen wie folgt gegeben:
 
@@ -71,7 +71,9 @@ Ein Rahmenprogramm ist Ihnen wie folgt gegeben:
 ```
 
 Die Bilddateien für Vorder- und Rückseiten finden Sie im Downloadbereich zu dieser Aufgabe. Sie können aber auch eigene Bilder verwenden.  
+
 Ergänzen Sie den Click-Handler so, dass ein Klick auf eine Karte zwischen Vorder- und Rückseite umschaltet. Dabei dürfen immer nur maximal zwei Karten aufgedeckt sein. Das heißt, ein Klick auf eine Rückseite, während zwei andere Karten aufgedeckt sind, soll keinen Effekt haben.  
+
 Der Zähler „Clicks“ oberhalb der Karten soll zudem bei jedem „gültigen“ Klick (das heißt, eine Karte wurde auf- oder zugedeckt) um eins erhöht werden.  
 
 ## Anleitung:
